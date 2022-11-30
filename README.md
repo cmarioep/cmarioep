@@ -6,9 +6,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmarioep&show_icons=true&locale=en&layout=compact" alt="cmarioep" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cmarioep&" alt="cmarioep" /></p>
-
-
 - 💌 Mail: <a href="mailto:cmescandonpardo@gmail.com">Mail</a>
 - 🏭 Linkedin: [Linkedin](https://www.linkedin.com/in/cmarioep/)
 - 📫 Twitter: [@cmarioep](https://twitter.com/cmarioep)
